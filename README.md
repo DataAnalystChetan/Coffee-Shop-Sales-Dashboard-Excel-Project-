@@ -67,7 +67,7 @@ created the pivot table needed for analysis.
 
 ## Dashboard
 
-![App Screenshot]([Sales Intractive Dashboard.png])
+![App Screenshot](Sales Intractive Dashboard.png)
 
 
 ## The Key Insights
