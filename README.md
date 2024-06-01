@@ -67,12 +67,12 @@ created the pivot table needed for analysis.
 
 ## Dashboard
 
-![App Screenshot](Sales Intractive Dashboard.png)
+![App Screenshot]([Sales Intractive Dashboard.png](https://github.com/DataAnalystChetan/Coffee-Shop-Sales-Dashboard-Excel-Project-/blob/main/Sales%20Intractive%20Dashboard.png))
 
 
 ## The Key Insights
 
-1. the average no, of orders per person is 1.4.
+1. the average no. of orders per person is 1.4.
 
 2. the average price/bill per person is $4.69.
 
